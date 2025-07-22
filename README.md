@@ -1,14 +1,19 @@
-# Run and deploy your AI Studio app
+# AI Health Tracker
 
-This contains everything you need to run your app locally.
+An intelligent health tracking app that analyzes user symptoms using a Gemini-based API and provides suggestions or predictions.
 
-## Run Locally
+## 🚀 Features
 
-**Prerequisites:**  Node.js
+- Symptom analysis using AI
+- Modern UI with Vite + React + TypeScript + Tailwind
+- API integration for real-time health insights
+- History tracking (optional)
+
+## 🛠️ Tech Stack
+
+- React + TypeScript
+- Vite
+- Tailwind CSS
+- Gemini API (Google AI)
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
