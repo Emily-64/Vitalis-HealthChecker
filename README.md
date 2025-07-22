@@ -1,4 +1,4 @@
-# AI Health Tracker
+# Vitalis – Scan Symptoms. Get Answers. Stay Ahead.
 
 An intelligent health tracking app that analyzes user symptoms using a Gemini-based API and provides suggestions or predictions.
 
