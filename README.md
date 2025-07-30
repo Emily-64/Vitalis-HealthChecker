@@ -18,3 +18,18 @@ An intelligent health tracking app that analyzes user symptoms using a Gemini-ba
 - Gemini API (Google AI)
 
 
+## How to Run Vitalis-Health Checker
+
+1. Clone the Repository
+```bash
+git clone https://github.com/Emily-64/vitalis-health-checker.git
+cd vitalis-health-checker
+
+2. Install Dependencies
+npm install
+3. Start Development Server
+npm run dev
+The app will be available at 👉 http://localhost:5173
+
+4. Build for Production
+npm run build
