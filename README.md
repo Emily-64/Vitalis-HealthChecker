@@ -19,7 +19,7 @@ An intelligent health tracking app that analyzes user symptoms using a Gemini-ba
 
 
 ## How to Run Vitalis-Health Checker
-
+```bash
 1. Clone the Repository
 git clone https://github.com/Emily-64/vitalis-health-checker.git
 cd vitalis-health-checker
