@@ -28,6 +28,7 @@ cd vitalis-health-checker
 npm install
 3. Start Development Server
 npm run dev
+
 The app will be available at 👉 http://localhost:5173
 
 4. Build for Production
